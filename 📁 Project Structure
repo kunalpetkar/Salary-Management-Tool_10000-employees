@@ -1,0 +1,23 @@
+Salary-Management-Tool_10000-employees/
+│
+├── app/
+│   ├── main.py
+│   ├── config/
+│   ├── database/
+│   ├── models/
+│   ├── schemas/
+│   ├── routes/
+│   ├── services/
+│   ├── auth/
+│   ├── payroll/
+│   ├── attendance/
+│   ├── leaves/
+│   ├── reports/
+│   └── utils/
+│
+├── tests/
+├── docker/
+├── kubernetes/
+├── requirements.txt
+├── docker-compose.yml
+└── README.md
