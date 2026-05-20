@@ -1,0 +1,8 @@
+Run Database
+docker-compose up -d
+uvicorn app.main:app --reload
+API Swagger Documentation
+
+Open:
+
+http://localhost:8000/docs
